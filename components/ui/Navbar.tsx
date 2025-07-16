@@ -12,6 +12,7 @@ const Navbar = () => {
       </div>
       <div className={styles.links}>
         <Link href="/inscription" className={styles.link}>Créer un compte</Link>
+        <Link href="/connexion" className={styles.link}>Se connecter</Link>
         <a href="#presentation" className={styles.link}>À propos</a>
       </div>
     </nav>
