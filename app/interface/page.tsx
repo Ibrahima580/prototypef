@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState, useRef } from 'react'
-import Navbar from '../../components/ui/NavbarEss'
+import Navbar from '../../components/ui/Navbaruser'
 import Footer from '../../components/ui/Footer'
 import styles from './../../components/styles/essaie.module.css'
 
