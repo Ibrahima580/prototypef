@@ -126,7 +126,7 @@ export default function InscriptionForm() {
         }
       }
 
-      toast.success('Inscription réussie !');
+      toast.success('Inscription réussie veuillez verifier votre boite e-mail pour confirmer l'inscription !');
       setTimeout(() => {
         router.push('/connexion');
       }, 5500);
