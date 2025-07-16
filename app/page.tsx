@@ -23,7 +23,7 @@ export default function Home() {
           <Link href="/essaie" className={styles.button}>Expérimentez PédaBot</Link>
         </div>
         <div className={styles.logos}>
-          <Image src="/icone.png" alt="Logo" width={180} height={245} />
+          <Image src="/icone.png" alt="Logo" width={172} height={180} />
           <Image src="/UADB.png" alt="Logo" width={207} height={180} />
         </div>
         <section id="presentation" className={styles.presentationSection}>
