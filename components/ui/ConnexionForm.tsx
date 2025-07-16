@@ -94,7 +94,7 @@ export default function ConnexionForm() {
       </div>
 
       <form className={styles.form} onSubmit={handleSubmit} noValidate>
-        <img src="/logo.png" alt="Logo" className={styles.logo} />
+        <img src="/icone.png" alt="Logo" className={styles.logo} />
 
         <div className={styles.inputGroup}>
           <label htmlFor="email" className={styles.label}>Adresse email</label>
