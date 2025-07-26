@@ -46,7 +46,7 @@ export default function ResetPasswordForm() {
     <div className={styles.container} role="main" aria-live="polite">
       <ToastContainer aria-label="Notification"/>
       <div className={styles.header}>
-        <img src="/logo.png" alt="Logo" className={styles.logo} />
+        <img src="/icone.png" alt="Logo" className={styles.logo} />
         <h2 className={styles.title}>Réinitialisation du mot de passe</h2>
         <p className={styles.subtitle}>
           Choisissez un nouveau mot de passe pour continuer.
